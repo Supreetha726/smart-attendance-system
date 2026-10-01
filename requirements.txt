@@ -1,0 +1,11 @@
+opencv-python
+numpy
+torch
+torchvision
+facenet-pytorch
+pillow
+python-dotenv
+streamlit
+pandas
+matplotlib
+seaborn
